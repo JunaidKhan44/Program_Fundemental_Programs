@@ -1,0 +1,28 @@
+Q# 1: write a programe that asks the user to type 10 integers of an array and an integer value, the programe must search if the value of intager exits in the array 
+and must remove the first occurrence of integer shifting each following elements left and adding a zero at the end of the array, the programe must then write the
+final array.-
+---------------------------------------------------------------------------------
+
+
+Q# 2: write a prgrame that asks the user to type 10 integers of an array.The program will then display either "The array is growing",
+"The array is decreasing","The array is constant", or "The array is Growing and decreasing".
+
+***************************************************************
+
+Q#3: write a program that asks the user to type 10 integers of an array.The program will then sort the array in ascending order and display it.
+
+**********************************************************
+
+Q#4:write a program which takes 2 array of 10 integers each, a and b, c is an array with 20 integers.The program should put into c the appending of b to a, 
+the first 10 integers of c from array a, the later 10 program should display c.
+*********************************************************************
+
+Q#5: write a program that asks the user to type 10 integers of an array. The program must search if integer is in the array of 10 integers.The program display integer
+and its index or "Integer is not in the array".
+*****************************************************
+
+Q#6: write a program that takes ages of 10 students in array and return average age of 10 students.
+******************************************
+Q#7: Write a program that reads 5 numbers into an array and printout the value of each and every number which has a value less than 10.
+
+
